@@ -7,5 +7,4 @@
 - [Chaim Sanders](https://github.com/csanders-git)
 - [Federico G. Schwindt](https://github.com/fgsch)
 - [Simon Studer](https://github.com/studersi)
-- [Jozef Sudolský](https://github.com/azurit)
 - [Felipe Zipitría](https://github.com/fzipi)
