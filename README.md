@@ -8,6 +8,10 @@ This plugin contains rule exclusions for [DokuWiki](https://www.dokuwiki.org), s
 
 For full and up to date instructions for the different available plugin installation methods, refer to [How to Install a Plugin](https://coreruleset.org/docs/configuring/plugins/#how-to-install-a-plugin) in the official CRS documentation.
 
+## Testing
+
+After the plugin is enabled, DokuWiki should work without problems caused by CRS (for example, false positives while blocking requests). If problems still occur then please file a new issue on [GitHub](https://github.com/coreruleset/dokuwiki-rule-exclusions-plugin). (Note that high paranoia level deployments may require additional tuning beyond this plugin.)
+
 ## License
 
 Copyright (c) 2022 OWASP ModSecurity Core Rule Set project. All rights reserved.
