@@ -8,3 +8,4 @@
 - [Federico G. Schwindt](https://github.com/fgsch)
 - [Simon Studer](https://github.com/studersi)
 - [Felipe Zipitría](https://github.com/fzipi)
+- [Max Leske](https://github.com/theseion)
