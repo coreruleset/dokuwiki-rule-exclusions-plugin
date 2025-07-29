@@ -2,8 +2,7 @@
 meta:
   author: "Felipe Zipitria. azurit"
   description: "Dokuwiki Plugin"
-  enabled: true
-  name: 9509100.yaml
+rule_id: 9509100
 tests:
   - test_id: 1
     desc: Test dokuwiki works
